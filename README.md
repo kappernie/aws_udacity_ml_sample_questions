@@ -1,0 +1,2 @@
+# aws_udacity_ml_sample_questions
+sample_questions to the 2020 aws_udacity_ml_scholarship_challenge
